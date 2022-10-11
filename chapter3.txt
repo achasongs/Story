@@ -1,0 +1,5 @@
+cat chapter2.txt
+How can you become you
+car how can you change
+git status
+ $ git status
